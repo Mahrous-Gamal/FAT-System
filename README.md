@@ -6,7 +6,6 @@
 - Create and delete new files and directories, etc.
 
 ### Commands in program
-- Commands in program
 
 - ➔ Command: help
 - This command helps us to know information about any command.

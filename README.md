@@ -32,3 +32,4 @@
 - ➔ Command: type
 - This command displays the content of a text file.
 
+![image](https://github.com/Mahrous-Gamal/FAT-System/assets/105131896/56e1f510-d9be-45e2-8d77-2bb90e29402e)
